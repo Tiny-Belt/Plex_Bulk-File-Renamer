@@ -1,7 +1,7 @@
 # Plex_FileRenamer
 A simple utility tool with GUI for renaming multiple files in a folder to a new base name and a incrementing episode tag. 
 
-Underconstruction 🏗️
+Underconstruction 🏗️ Have to compile a exe and add the packages to the repo
 
 ```
 Example Format:
