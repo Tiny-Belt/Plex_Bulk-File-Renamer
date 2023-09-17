@@ -5,7 +5,10 @@ Underconstruction 🏗️
 
 ```
 Example Format:
-Orginal File Name: [Db]American_Dad_-_1080p Episode 1
+Orginal File Name:
+[Db]American_Dad_-_1080p Season 1 Episode 1
+[Db]American_Dad_-_1080p Season 1 Episode 2
+[Db]American_Dad_-_1080p Season 1 Episode 3
 Converted To:
 American_Dad_S01E01
 American_Dad_S01E02
