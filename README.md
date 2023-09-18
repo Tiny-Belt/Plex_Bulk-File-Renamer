@@ -3,6 +3,7 @@ A simple utility tool with GUI for renaming multiple files in a folder to a new 
 
 Underconstruction 🏗️ Have to compile a exe and add the packages to the repo
 
+[Link to EXE](https://mega.nz/file/GB8izC6T#OrCdEK2fv8aAXr-L-b42EuGBTvJd39T0ZOpsKR5VRPQ)
 ```
 Example Format:
 Orginal File Name:
